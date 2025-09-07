@@ -13,17 +13,6 @@ A comprehensive financial news aggregation and summarization system that automat
 - **Telegram Integration**: Automatically sends reports to Telegram channels
 - **Modular Agent Architecture**: Clean separation of concerns with dedicated agents for each task
 
-## 📋 Table of Contents
-
-- [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Architecture](#architecture)
-- [API Requirements](#api-requirements)
-- [Output](#output)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## 🛠 Installation
 
 ### Prerequisites
