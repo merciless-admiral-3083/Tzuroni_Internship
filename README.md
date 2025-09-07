@@ -20,12 +20,6 @@ A comprehensive financial news aggregation and summarization system that automat
 - Python 3.8 or higher
 - API keys for required services (see [API Requirements](#api-requirements))
 
-### Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
 ### Additional Dependencies
 
 For the financial summary script specifically, you may need:
@@ -41,9 +35,8 @@ pip install crewai litellm requests python-telegram-bot==13.15 reportlab Pillow 
 Set the following environment variables in your `.env` file or system environment:
 
 ```bash
-# Search APIs (choose one or both)
+# Search APIs 
 SERPER_API_KEY=your_serper_api_key
-TAVILY_API_KEY=your_tavily_api_key
 
 # LLM Configuration
 LITELLM_API_KEY=your_litellm_api_key
